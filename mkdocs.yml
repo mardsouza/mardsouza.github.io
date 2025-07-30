@@ -1,0 +1,117 @@
+site_name: My Personal Page
+site_description: My Personal Page
+site_author: Marcio de Souza
+site_url: mardsouza.github.io
+
+repo_name: mardsouza.github.io
+repo_url: https://github.com/mardsouza/mardsouza.github.io
+edit_uri: 'blob/master/docs'
+
+nav:
+  - "Home": index.md
+ 
+theme:
+  name: material
+  palette:
+    #- media: "(prefers-color-scheme)"
+    #  toggle:
+    #    icon: material/link
+    #    name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: red
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+    #primary: red # deep orange
+    #accent: amber
+  custom_dir: 'docs/overrides'
+  logo: 'assets/logo-sprace-noname.png'
+  favicon: 'assets/logo-wiki.png'
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.share
+    - search.suggest
+    - toc.integrate
+    - toc.follow
+    - content.tooltips
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+  icon:
+    annotation: material/information-outline
+
+
+markdown_extensions:
+  - abbr
+  - attr_list
+  - pymdownx.arithmatex:
+  - admonition:
+  - md_in_html:
+  - pymdownx.details:
+  - tables:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      permalink: "link"
+      toc_depth: 3
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite:
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+  - pymdownx.superfences:
+      custom_fences:
+      - name: mermaid
+        class: mermaid
+        format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.details
+  - footnotes
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.blocks.caption
+
+
+
+plugins:
+  - search
+
+# extra:
+#   social:
+#     - icon: material/open-in-new
+#       link: https://sprace.org.br
+#       name: SPRACE Website
+
+
+extra_css:
+    - css/extra.css
+
+extra_javascript:
+    - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+    - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+    - javascripts/tablesort.js
+
+watch:
+  - includes
