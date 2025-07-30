@@ -1,0 +1,9 @@
+.md-header__button.md-logo,
+.md-header__button.md-logo svg,
+.md-header__title .md-logo,
+.md-header__title .md-logo svg {
+    display: none !important;
+    width: 0 !important;
+    height: 0 !important;
+    overflow: hidden !important;
+}

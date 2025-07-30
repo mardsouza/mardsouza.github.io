@@ -1,14 +1,21 @@
-site_name: My Personal Page
-site_description: My Personal Page
+site_name: Marcio de Souza
+site_description: Marcio de Souza personal page
 site_author: Marcio de Souza
 site_url: https://mardsouza.github.io
 
 repo_name: mardsouza.github.io
-repo_url: https://github.com/mardsouza/mardsouza.github.io
+# repo_url: https://github.com/mardsouza/mardsouza.github.io
 edit_uri: 'blob/master/docs'
 
 nav:
-  - "Home": index.md
+  - "Home": 
+      - index.md
+
+  - "Research": 
+      - research/index.md
+
+  - "CV": 
+      - cv/index.md
  
 theme:
   name: material
@@ -17,36 +24,31 @@ theme:
     #  toggle:
     #    icon: material/link
     #    name: Switch to light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: red
-      accent: amber
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: black
-      accent: amber
-      toggle:
-        icon: material/brightness-4
-        name: Switch to system preference
+      accent: indigo
+      # toggle:
+      #   icon: material/brightness-4
+      #   name: Switch to system preference
 
+
+  logo: 'assets/empty.svg'
     #primary: red # deep orange
     #accent: amber
   custom_dir: 'docs/overrides'
-  logo: 'assets/logo-sprace-noname.png'
-  favicon: 'assets/logo-wiki.png'
+  # favicon: 'assets/logo-wiki.png'
   features:
+    - header.autohide
     - navigation.instant
-    - navigation.tracking
+    #- navigation.tracking
     - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.sections
-    - navigation.expand
+    #- navigation.tabs.sticky
+    #- navigation.sections
+    #- navigation.expand
     - navigation.top
-    - search.share
-    - search.suggest
+    #- search.share
+    #- search.suggest
     - toc.integrate
     - toc.follow
     - content.tooltips
@@ -54,8 +56,8 @@ theme:
     - content.action.view
     - content.code.annotate
     - content.code.copy
-  icon:
-    annotation: material/information-outline
+  #icon:
+  #  annotation: material/information-outline
 
 
 markdown_extensions:
@@ -93,20 +95,23 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.blocks.caption
 
-
-
+# plugins: []
+  #- search
 plugins:
-  - search
-
+  - blog
+  - social
 # extra:
 #   social:
 #     - icon: material/open-in-new
 #       link: https://sprace.org.br
 #       name: SPRACE Website
 
+extra:
+  generator: false
 
 extra_css:
     - css/extra.css
+    - css/remove.css
 
 extra_javascript:
     - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
