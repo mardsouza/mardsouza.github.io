@@ -16,6 +16,15 @@ nav:
 
   - "CV": 
       - cv/index.md
+    
+  - "Outreach":
+    - outreach/index.md
+  
+  - "Teaching & Talks":
+    - teaching/index.md
+
+  #- "Blog":
+  #  - blog/index.md
  
 theme:
   name: material
@@ -33,14 +42,16 @@ theme:
       #   name: Switch to system preference
 
 
+  language: en
   logo: 'assets/empty.svg'
     #primary: red # deep orange
     #accent: amber
   custom_dir: 'docs/overrides'
-  # favicon: 'assets/logo-wiki.png'
+  favicon: assets/triforce.png
   features:
     - header.autohide
     - navigation.instant
+    #- navigation.footer
     #- navigation.tracking
     - navigation.tabs
     #- navigation.tabs.sticky
@@ -52,10 +63,10 @@ theme:
     - toc.integrate
     - toc.follow
     - content.tooltips
-    - content.action.edit
-    - content.action.view
+    # - content.action.edit
+    # - content.action.view
     - content.code.annotate
-    - content.code.copy
+    # - content.code.copy
   #icon:
   #  annotation: material/information-outline
 
@@ -72,9 +83,9 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  - toc:
-      permalink: "link"
-      toc_depth: 3
+#  - toc:
+#      permalink: "link"
+#      toc_depth: 3
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite:
@@ -100,18 +111,43 @@ markdown_extensions:
 plugins:
   - blog
   - social
-# extra:
-#   social:
-#     - icon: material/open-in-new
-#       link: https://sprace.org.br
-#       name: SPRACE Website
 
 extra:
   generator: false
+  social:
+    - icon: material/email
+      link: mailto:marcio.souza@cern.ch
+      name: Email
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/marcio-d-souza/
+      name: LinkedIn
+    - icon: fontawesome/brands/github
+      link: https://github.com/mardsouza
+      name: GitHub
+    - icon: fontawesome/brands/gitlab
+      link: https://gitlab.cern.ch/desousma
+      name: CERN GitLab
+    - icon: fontawesome/brands/orcid
+      link: https://orcid.org/0000-0003-4044-1735
+      name: ORCID
+    - icon: fontawesome/brands/google-scholar
+      link: https://scholar.google.com/citations?user=WgAnD1YAAAAJ
+      name: Google Scholar
+    - icon: fontawesome/brands/tiktok
+      link: https://tiktok.com/@mardesoushi
+      name: TikTok
+    - icon: fontawesome/solid/podcast
+      link: https://open.spotify.com/show/6hWKJrJYBogjoZhc3CuKHY
+      name: Podcast
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/mardesoushi
+      name: Instagram
+
+copyright: 2025 &copy; Marcio de Souza - Brazil
 
 extra_css:
-    - css/extra.css
-    - css/remove.css
+    - stylesheets/extra.css
+    - stylesheets/remove.css
 
 extra_javascript:
     - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
