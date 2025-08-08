@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-# Marcio de Souza | Physicist, PhD
+# [Marcio de Souza | Physicist, PhD](https://backloggd.com/u/mardsouza/games/user-rating/)
 
 ## Who am I?
 ![](assets/perfil.png){ width=550, align=left}
