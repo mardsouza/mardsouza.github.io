@@ -142,6 +142,10 @@ extra:
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/mardsouza.sh
       name: Instagram
+ 
+  analytics:
+    provider: google
+    property: G-X8M9ESJ1SB
 
 copyright: 2025 &copy; Marcio de Souza - Brazil
 
