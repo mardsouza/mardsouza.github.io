@@ -5,7 +5,7 @@ hide:
 ---
 # Curriculum Vitae
 
-[:simple-readdotcv: CV (August 2025) ](CV_Marcio.pdf){ .md-button }
+[:simple-readdotcv: CV (February 2026) ](CV_Marcio.pdf){ .md-button }
 
 ## Research Positions
 
