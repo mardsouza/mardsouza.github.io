@@ -147,7 +147,7 @@ extra:
     provider: google
     property: G-X8M9ESJ1SB
 
-copyright: 2025 &copy; Marcio de Souza - Brazil
+copyright: 2026 &copy; Marcio de Souza - Brazil
 
 extra_css:
     - stylesheets/extra.css
