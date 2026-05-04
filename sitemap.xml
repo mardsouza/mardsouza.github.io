@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://mardsouza.github.io/blog/</loc>
+        <lastmod>2026-05-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mardsouza.github.io/blog/"/>
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://mardsouza.github.io/pt-BR/blog/"/>
+    </url>
+    <url>
+        <loc>https://mardsouza.github.io/</loc>
+        <lastmod>2026-05-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mardsouza.github.io/"/>
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://mardsouza.github.io/pt-BR/"/>
+    </url>
+    <url>
+        <loc>https://mardsouza.github.io/cv/</loc>
+        <lastmod>2026-05-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mardsouza.github.io/cv/"/>
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://mardsouza.github.io/pt-BR/cv/"/>
+    </url>
+    <url>
+        <loc>https://mardsouza.github.io/includes/abbreviations/</loc>
+        <lastmod>2026-05-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mardsouza.github.io/includes/abbreviations/"/>
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://mardsouza.github.io/pt-BR/includes/abbreviations/"/>
+    </url>
+    <url>
+        <loc>https://mardsouza.github.io/outreach/</loc>
+        <lastmod>2026-05-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mardsouza.github.io/outreach/"/>
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://mardsouza.github.io/pt-BR/outreach/"/>
+    </url>
+    <url>
+        <loc>https://mardsouza.github.io/research/</loc>
+        <lastmod>2026-05-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mardsouza.github.io/research/"/>
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://mardsouza.github.io/pt-BR/research/"/>
+    </url>
+    <url>
+        <loc>https://mardsouza.github.io/teaching/</loc>
+        <lastmod>2026-05-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mardsouza.github.io/teaching/"/>
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://mardsouza.github.io/pt-BR/teaching/"/>
+    </url>
+    <url>
+        <loc>https://mardsouza.github.io/pt-BR/blog/</loc>
+        <lastmod>2026-05-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://mardsouza.github.io/pt-BR/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mardsouza.github.io/blog/"/>
+    </url>
+    <url>
+        <loc>https://mardsouza.github.io/pt-BR/</loc>
+        <lastmod>2026-05-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://mardsouza.github.io/pt-BR/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mardsouza.github.io/"/>
+    </url>
+    <url>
+        <loc>https://mardsouza.github.io/pt-BR/cv/</loc>
+        <lastmod>2026-05-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://mardsouza.github.io/pt-BR/cv/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mardsouza.github.io/cv/"/>
+    </url>
+    <url>
+        <loc>https://mardsouza.github.io/pt-BR/includes/abbreviations/</loc>
+        <lastmod>2026-05-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://mardsouza.github.io/pt-BR/includes/abbreviations/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mardsouza.github.io/includes/abbreviations/"/>
+    </url>
+    <url>
+        <loc>https://mardsouza.github.io/pt-BR/outreach/</loc>
+        <lastmod>2026-05-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://mardsouza.github.io/pt-BR/outreach/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mardsouza.github.io/outreach/"/>
+    </url>
+    <url>
+        <loc>https://mardsouza.github.io/pt-BR/research/</loc>
+        <lastmod>2026-05-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://mardsouza.github.io/pt-BR/research/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mardsouza.github.io/research/"/>
+    </url>
+    <url>
+        <loc>https://mardsouza.github.io/pt-BR/teaching/</loc>
+        <lastmod>2026-05-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://mardsouza.github.io/pt-BR/teaching/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mardsouza.github.io/teaching/"/>
+    </url>
+</urlset>
