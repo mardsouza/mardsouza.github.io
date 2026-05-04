@@ -5,21 +5,21 @@ hide:
 ---
 # Curriculum Vitae
 
-[:simple-readdotcv: CV (February 2026) ](CV_Marcio.pdf){ .md-button }
+[:simple-readdotcv: Currículo (Fevereiro 2026) ](CV_Marcio.pdf){ .md-button }
 
-## Research Positions
+## Cargos de pesquisa
 
-- Postdoctoral Researcher, SPRACE, São Paulo State University (UNESP), 2025-present
-- Machine Learning Researcher, SPRACE, São Paulo State University (UNESP), 2024-2025
+- Pesquisador de Pós-Doutorado, SPRACE, Universidade Estadual Paulista (UNESP), 2025-atual
+- Pesquisador de Aprendizado de Máquina, SPRACE, Universidade Estadual Paulista (UNESP), 2024-2025
 
 
-## Technical Positions
+## Cargos Técnicos
 
-- Data Scientist, Aquarela Advanced Analytics, 2022-2024
-- Full Stack Software Developer, Nikkeimed Health Systems, 2024
-- Physics Teacher, Brazilian Federal and State Institutes, 2015-2021 
+- Cientista de Dados, Aquarela Advanced Analytics, 2022-2024
+- Desenvolvedor de software Full Stack, Nikkeimed Health Systems, 2024
+- Professor de Física, Institutos Federais e Estaduais Brasileiros, 2015-2021
 
-## Education
-- PhD. Federal University of Rio Grande do Sul (UFRGS), Computational Physics 2020-2024
-- MSc. Federal University of Rio Grande do Sul (UFRGS), Theoretical Physics, 2018-2020
-- BA. Universidade Federal de Uberlândia (UFU), Physics, 2014-2017
+## Educação
+- Doutorado. Universidade Federal do Rio Grande do Sul (UFRGS), Física Computacional 2020-2024
+- Mestrado. Universidade Federal do Rio Grande do Sul (UFRGS), Física Teórica, 2018-2020
+-BA. Universidade Federal de Uberlândia (UFU), Física, 2014-2017

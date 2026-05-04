@@ -4,29 +4,27 @@ hide:
   - toc
 ---
 
-# Teaching
+# Ensino
 
-Here you will find some teaching materials and presentations elaborated by me, among some other useful links.
+Aqui você encontrará alguns materiais didáticos e apresentações elaborados por mim, além de outros links úteis.
 
+## Defesa de Tese
 
-## Thesis Defense
+[Minha Tese de Doutorado - Texto completo](https://www.lume.ufrgs.br/handle/10183/276460){:target="_blank"}
 
-[My PhD Thesis - Full text](https://www.lume.ufrgs.br/handle/10183/276460){:target="_blank"}
+[Link da Apresentação](materials/defesa-tese-doutorado-vfinal.pdf){:target="_blank"}
 
-[Presentation Link](materials/defesa-tese-doutorado-vfinal.pdf){:target="_blank"}
+## Defesa de Mestrado
 
-## Masters Defense
+[Minha Dissertação de Mestrado - Texto completo (PT-BR :br:)](https://lume.ufrgs.br/handle/10183/211546){:target="_blank"}
 
-[My Masters Dissertation - Full text (PT-BR :br:)](https://lume.ufrgs.br/handle/10183/211546){:target="_blank"}
+## Links Úteis
 
-
-## Useful Links
-
-- [CMS 3D Model](https://www.printables.com/model/904-cerns-cms-detector){:target="_blank"}
-- [GODOT Engine](https://godotengine.org/){:target="_blank"}
+- [Modelo 3D do CMS](https://www.printables.com/model/904-cerns-cms-detector){:target="_blank"}
+- [GODOT](https://godotengine.org/){:target="_blank"}
 - [Streamlit](https://streamlit.io/){:target="_blank"}
-- [Prof. Berger's Sympy code for HEP](https://profchristophberger.com/lehrbuch-elementarteilchenphysik/python/){:target="_blank"}
+- [Código Sympy do Prof. Berger para Física de Altas Energias](https://profchristophberger.com/lehrbuch-elementarteilchenphysik/python/){:target="_blank"}
 
-## Making this website
+## Criando este site
 
-This website was made using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/){:target="_blank"}
+Este site foi criado usando [Material para MkDocs](https://squidfunk.github.io/mkdocs-material/){:target="_blank"}

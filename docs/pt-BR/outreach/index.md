@@ -4,50 +4,51 @@ hide:
   - toc
 ---
 
-# Outreach
+# Divulgação Científica
 
-!!! abstract ":construction:"
-    This section is still under development, but I'll put here a quick overview of some projects I've been working on!
+## :material-youtube: YouTube
+
+Eu tenho um canal de divulgação científica no YouTube onde eu tento postar vídeos semanais abordando algum aspecto ou outro da física e da minha pesquisa, me segue lá! 
+
+<div class="grid cards" markdown>
+
+- :material-youtube: __[Canal Marcio de Souza](https://www.youtube.com/@mardsouza){:target="_blank"}__
+
+
+
+</div>
+
+### Outras Redes
+
+De vez enquando, eu também posto alguma curiosidade ou outra nas minhas redes sociais.
+
+
+<div class="grid cards" markdown>
+
+- :fontawesome-brands-threads: __[Threads](https://www.threads.com/@mardsouza.sh){:target="_blank"}__
+- :fontawesome-brands-tiktok: __[TikTok](https://instagram.com/mardsouza.sh){:target="_blank"}__
+- :fontawesome-brands-instagram: __[Instagram](https://instagram.com/mardsouza.sh){:target="_blank"}__
+
+</div>
 
 
 ## Masterclass
 
-MasterClass is an international event that brings about 10.000 high school students in 40 countries to come to one of 200 nearby universities or research centers around the world with the goal of showing them (and their teachers) that Physics is a fascinating subject and that through its study we can learn more about some of the greatest mysteries of the universe – what are the fundamental and elementary particles that form it? How do they interact with each other?
+O MasterClass é um evento internacional que reúne cerca de 10.000 estudantes do ensino médio de 40 países em uma das 200 universidades ou centros de pesquisa parceiros ao redor do mundo, com o objetivo de mostrar a eles (e a seus professores) que a Física é uma disciplina fascinante e que, por meio de seu estudo, podemos aprender mais sobre alguns dos maiores mistérios do universo – quais são as partículas fundamentais e elementares que o compõem? Como elas interagem entre si?
 
-At the São Paulo Research and Analysis Center (SPRACE), the International MasterClass event has been organized since 2008, always with increasing number of schools and participants. In 2018, over 400 students took part in three MasterClass events held in our premises.
-
-<div class="grid cards" markdown>
--   :material-printer-3d:{ .lg .middle } __3D CMS Printing__
-
-    ---
-    At the São Paulo Research and Analysis Center (SPRACE), International MasterClass event has been organized since 2008(!). Currently, we are working in print a 3D Model of the CMS detector at a scale of 120:1 to be used in future MasterClass events.
-
-    [:octicons-arrow-right-24: Link to the CMS 3D model we are using](https://www.printables.com/model/904-cerns-cms-detector) 
-</div>
+No Centro de Pesquisa e Análise de São Paulo (SPRACE), o evento internacional MasterClass é organizado desde 2008, sempre com um número crescente de escolas e participantes. Em 2018, mais de 400 estudantes participaram das três edições do MasterClass realizadas em nossas instalações.
 
 
+## Quase Física Podcast (:br: PT-BR) 
 
-## Quase Física Podcast (:br: PT-BR)
-A podcast designed to discuss physics and related subjects in a relaxed and entertaining manner, consistently featuring expert guests. Our goal is to shed light on the activities and developments occurring both within and beyond the academic world, making this knowledge accessible to the general public.
+Um podcast criado para discutir física e assuntos relacionados de forma descontraída e divertida, com a participação constante de especialistas convidados. Nosso objetivo é esclarecer as atividades e os desenvolvimentos que ocorrem dentro e fora do mundo acadêmico, tornando esse conhecimento acessível ao público em geral. No momento, em hiato por tempo inderteminado :(
 
-[:fontawesome-solid-podcast: Listen here !](https://open.spotify.com/show/6hWKJrJYBogjoZhc3CuKHY){ .md-button }
+[:fontawesome-solid-podcast: Escute aqui!](https://open.spotify.com/show/6hWKJrJYBogjoZhc3CuKHY){ .md-button }
 
-## A Physics Game
-
-A puzzle/adventure game that deals with basic physics concepts, developed in [Godot](https://godotengine.org/).
+s with basic physics concepts, developed in [Godot](https://godotengine.org/).
 
 ## Escura Tecnologia
 
-A project to transfer skills from academia to assist small and medium-sized companies in their business.
+Um projeto para transferir conhecimentos da academia para auxiliar pequenas e médias empresas em seus negócios.
 
 Webiste: [https://escura.tec.br](https://escura.tec.br)
-
-## Socials
-
-Me segue aí! (se você quiser)
-
-[:fontawesome-brands-threads:](https://www.threads.com/@mardsouza.sh){.md-button}
-[:fontawesome-brands-tiktok:](https://tiktok.com/@mardsouza){.md-button}
-[:fontawesome-brands-instagram:](https://instagram.com/mardsouza.sh){.md-button}
-
-
