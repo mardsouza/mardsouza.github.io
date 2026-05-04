@@ -9,25 +9,31 @@ edit_uri: 'blob/master/docs'
 
 nav:
   - "Home": 
-      - index.md
+      - en/index.md
+      - pt-BR/index.md
 
   - "Research": 
-      - research/index.md
+      - en/research/index.md
+      - pt-BR/research/index.md
 
   - "CV": 
-      - cv/index.md
+      - en/cv/index.md
+      - pt-BR/cv/index.md
     
   - "Outreach":
-    - outreach/index.md
+    - en/outreach/index.md
+    - pt-BR/outreach/index.md
   
   - "Teaching & Talks":
-    - teaching/index.md
+    - en/teaching/index.md
+    - pt-BR/teaching/index.md
 
   #- "Blog":
   #  - blog/index.md
  
 theme:
   name: material
+  language: en
   palette:
     #- media: "(prefers-color-scheme)"
     #  toggle:
@@ -40,9 +46,6 @@ theme:
       # toggle:
       #   icon: material/brightness-4
       #   name: Switch to system preference
-
-
-  language: en
   logo: 'assets/empty.svg'
     #primary: red # deep orange
     #accent: amber
@@ -91,7 +94,7 @@ markdown_extensions:
   - pymdownx.inlinehilite:
   - pymdownx.snippets:
       auto_append:
-        - includes/abbreviations.md
+        - en/includes/abbreviations.md
   - pymdownx.superfences:
       custom_fences:
       - name: mermaid
@@ -111,6 +114,30 @@ markdown_extensions:
 plugins:
   - blog
   - social
+  - i18n:
+      docs_structure: folder
+      default_language: en
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+          site_name: My website
+          site_description: My description
+        - locale: pt-BR
+          name: Português-BR
+          build: true
+          site_name: Marcio de Souza
+          site_description: Portugues
+          nav_translations:
+            "Home": "Início" 
+            "Research": "Pesquisa" 
+            "CV" : "Currículo"
+            "Outreach" : "Divulgação Científica"
+            "Teaching & Talks" : "Ensino e Palestras"
+
+
+
 
 extra:
   generator: false
@@ -143,6 +170,15 @@ extra:
       link: https://instagram.com/mardsouza.sh
       name: Instagram
  
+
+  alternate:
+    - name: English
+      link: /en/ 
+      lang: en
+    - name: Português-BR
+      link: /pt-BR/
+      lang: pt-BR
+
   analytics:
     provider: google
     property: G-X8M9ESJ1SB
@@ -158,5 +194,5 @@ extra_javascript:
     - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
     - javascripts/tablesort.js
 
-watch:
-  - includes
+#watch:
+#  - en/includes

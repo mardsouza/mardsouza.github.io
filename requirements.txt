@@ -3,3 +3,4 @@ mkdocs-material
 mkdocs-material-extensions
 pymdown-extensions
  mkdocs-material[imaging]
+mkdocs-static-i18n

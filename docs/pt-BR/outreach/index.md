@@ -44,9 +44,10 @@ Webiste: [https://escura.tec.br](https://escura.tec.br)
 
 ## Socials
 
-Follow me! (if you want)
+Me segue aí! (se você quiser)
 
-[:fontawesome-brands-tiktok:](https://tiktok.com/@mardesoushi){.md-button}
-[:fontawesome-brands-instagram:](https://instagram.com/mardesoushi){.md-button}
-[:fontawesome-brands-twitter:](https://x.com/mardesoushi){.md-button}
+[:fontawesome-brands-threads:](https://www.threads.com/@mardsouza.sh){.md-button}
+[:fontawesome-brands-tiktok:](https://tiktok.com/@mardsouza){.md-button}
+[:fontawesome-brands-instagram:](https://instagram.com/mardsouza.sh){.md-button}
+
 
