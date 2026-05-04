@@ -10,30 +10,25 @@ edit_uri: 'blob/master/docs'
 nav:
   - "Home": 
       - en/index.md
-      - pt-BR/index.md
 
   - "Research": 
       - en/research/index.md
-      - pt-BR/research/index.md
 
   - "CV": 
       - en/cv/index.md
-      - pt-BR/cv/index.md
     
   - "Outreach":
     - en/outreach/index.md
-    - pt-BR/outreach/index.md
   
   - "Teaching & Talks":
     - en/teaching/index.md
-    - pt-BR/teaching/index.md
 
   #- "Blog":
   #  - blog/index.md
  
 theme:
   name: material
-  language: en
+  # language: en
   palette:
     #- media: "(prefers-color-scheme)"
     #  toggle:
@@ -112,7 +107,7 @@ markdown_extensions:
 # plugins: []
   #- search
 plugins:
-  - blog
+  # - blog
   - social
   - i18n:
       docs_structure: folder
@@ -122,13 +117,13 @@ plugins:
           default: true
           name: English
           build: true
-          site_name: My website
-          site_description: My description
+          site_name: Marcio de Souza
+          site_description: Physicist, PhD
         - locale: pt-BR
           name: Português-BR
           build: true
           site_name: Marcio de Souza
-          site_description: Portugues
+          site_description: Físico | Doutor em Física
           nav_translations:
             "Home": "Início" 
             "Research": "Pesquisa" 
@@ -174,13 +169,13 @@ extra:
       name: Google Scholar
  
 
-  alternate:
-    - name: English
-      link: /en/ 
-      lang: en
-    - name: Português-BR
-      link: /pt-BR/
-      lang: pt-BR
+  # alternate:
+  #   - name: English
+  #     link: /en/ 
+  #     lang: en
+  #   - name: Português-BR
+  #     link: /pt-BR/
+  #     lang: pt-BR
 
   analytics:
     provider: google
