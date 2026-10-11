@@ -1,0 +1,37 @@
+/* 
+.md-main__inner {
+    max-width: none;
+}
+.md-sidebar--primary {
+    left: 0;
+}
+.md-sidebar--secondary {
+    right: 0;
+    margin-left: 0;
+    -webkit-transform: none;
+    transform: none;   
+} */
+
+
+/* Center the site name in the header */
+.md-header__title {
+    margin: 0 auto !important;   /* push it to center */
+    text-align: center !important;
+    justify-content: center !important;
+    display: flex !important;    /* ensure flex works */
+}
+
+/* Optional: ensure it spans full width */
+.md-header__inner {
+    justify-content: center !important;
+}
+
+.md-header__button.md-logo,
+.md-header__button.md-logo svg,
+.md-header__title .md-logo,
+.md-header__title .md-logo svg {
+    display: none !important;
+    width: 0 !important;
+    height: 0 !important;
+    overflow: hidden !important;
+}
