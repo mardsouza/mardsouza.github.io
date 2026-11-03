@@ -19,12 +19,12 @@ On this page, you'll find links to my main work, other projects I'm involved in,
 
 <div class="grid cards" markdown>
 
-- :material-email: __[marcio.souza@cern.ch](mailto:marcio.souza@cern.ch){:target="_blank"}__
-- :fontawesome-brands-linkedin: __[LinkedIn](https://www.linkedin.com/in/marcio-d-souza/){:target="_blank"}__
-- :fontawesome-brands-github: __[GitHub](https://github.com/mardsouza){:target="_blank"}__
-- :simple-readdotcv: __[Lattes CV](http://lattes.cnpq.br/1439394666706075){:target="_blank"}__
-- :fontawesome-brands-orcid: __[ORCID](https://orcid.org/0000-0003-4044-1735){:target="_blank"}__
-- :fontawesome-brands-google-scholar: __[Google Scholar](https://scholar.google.com/citations?user=WgAnD1YAAAAJ){:target="_blank"}__
+- :material-email: [marcio.souza@cern.ch](mailto:marcio.souza@cern.ch){:target="_blank"}
+- :fontawesome-brands-linkedin: [LinkedIn](https://www.linkedin.com/in/marcio-d-souza/){:target="_blank"}
+- :fontawesome-brands-github: [GitHub](https://github.com/mardsouza){:target="_blank"}
+- :simple-readdotcv: [Currículo Lattes](http://lattes.cnpq.br/1439394666706075){:target="_blank"}
+- :fontawesome-brands-orcid: [ORCID](https://orcid.org/0000-0003-4044-1735){:target="_blank"}
+- :fontawesome-brands-google-scholar: [Google Scholar](https://scholar.google.com/citations?user=WgAnD1YAAAAJ){:target="_blank"}
 
 </div>
 ---
